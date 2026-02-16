@@ -1,0 +1,101 @@
+SL No,Name,Role,Specialization,Strike Rate,Economy,Runs,Wickets,Base Price (Lakhs)
+1,Litton Gill,Batter,Finisher,94,7.12,3781,91,50
+2,Marnus Perera,All-Rounder,Balanced,97,7.38,1404,36,50
+3,Tamim Head,Wicket-Keeper,Finisher,146,9.02,4935,142,50
+4,Nicholas Khawaja,Wicket-Keeper,Aggressive,174,9.27,2039,77,40
+5,Rashid Kohli,Wicket-Keeper,Finisher,99,9.53,4425,6,40
+6,Rohit Stokes,Batter,Finisher,112,7.46,4189,4,30
+7,Angelo Roy,Wicket-Keeper,Anchoring,138,10.45,4397,150,20
+8,Shakib Chandimal,All-Rounder,Batting All-Rounder,145,5.86,3734,104,30
+9,Faf Boult,Batter,Finisher,139,8.86,4272,120,75
+10,Tim Azam,Bowler,Medium Pace,178,6.97,4377,93,75
+11,Marcus Hazlewood,Wicket-Keeper,Anchoring,150,6.66,2749,34,40
+12,Marcus Bumrah,Batter,Middle Order,112,9.37,2424,15,75
+13,KL Latham,All-Rounder,Batting All-Rounder,140,6.81,2694,139,30
+14,Marnus Hasaranga,All-Rounder,Bowling All-Rounder,156,6.37,4731,20,30
+15,Hardik Al Hasan,Wicket-Keeper,Aggressive,177,9.02,2916,96,50
+16,Martin Root,Wicket-Keeper,Aggressive,110,9.99,4249,33,75
+17,Jasprit Chandimal,Bowler,Spin,106,7.53,1729,101,20
+18,Dinesh Jadeja,Wicket-Keeper,Finisher,143,6.13,3978,120,75
+19,Babar Conway,Bowler,Spin,103,7.67,4829,101,100
+20,Angelo Smith,All-Rounder,Balanced,114,8.18,2587,113,20
+21,Litton Rabada,Bowler,Medium Pace,129,7.23,1723,14,75
+22,Dinesh Nabi,Bowler,Spin,98,7.96,4723,56,40
+23,Angelo de Kock,Bowler,Medium Pace,95,9.23,1445,65,40
+24,Jason Sharma,Batter,Middle Order,119,9.75,943,111,75
+25,Aiden Hasaranga,Bowler,Medium Pace,139,6.95,1807,21,50
+26,Devon de Kock,Batter,Finisher,111,7.81,4753,149,40
+27,Ruturaj Kohli,Bowler,Pace,92,10.37,3595,120,75
+28,KL Rahim,All-Rounder,Balanced,90,9.12,3357,15,50
+29,Heinrich de Kock,Wicket-Keeper,Anchoring,152,9.8,2510,85,40
+30,Virat Azam,All-Rounder,Bowling All-Rounder,135,10.01,3162,9,100
+31,Faf Markram,Batter,Finisher,96,6.53,4532,150,30
+32,Jason Chandimal,All-Rounder,Batting All-Rounder,115,10.17,1022,87,40
+33,KL Bumrah,All-Rounder,Balanced,147,7.09,1391,121,20
+34,Shaheen Hazlewood,Bowler,Pace,127,8.68,1001,65,100
+35,Tom Chandimal,All-Rounder,Balanced,138,8.21,1640,18,75
+36,Kagiso Chandimal,All-Rounder,Bowling All-Rounder,156,8.19,2405,99,75
+37,Surya Khawaja,All-Rounder,Batting All-Rounder,97,9.41,1936,133,20
+38,Travis Head,All-Rounder,Batting All-Rounder,174,6.79,3822,130,100
+39,Glenn Klaasen,Bowler,Pace,107,7.38,2809,25,40
+40,Aaron Sharma,All-Rounder,Balanced,149,7.38,3247,50,50
+41,Rashid Yadav,Bowler,Medium Pace,101,9.48,2293,95,50
+42,Kagiso Starc,Batter,Top Order,116,8.74,519,83,75
+43,Quinton Rabada,Wicket-Keeper,Finisher,137,5.91,2460,71,100
+44,Nicholas de Kock,Batter,Middle Order,155,7.51,4371,98,75
+45,Kane Latham,All-Rounder,Balanced,173,9.39,1099,93,20
+46,Angelo Khan,Batter,Top Order,102,6.73,2071,54,50
+47,Babar Nabi,All-Rounder,Batting All-Rounder,165,6.08,3746,23,20
+48,Babar Mathews,Wicket-Keeper,Anchoring,159,10.15,3995,65,40
+49,Shakib Sharma,All-Rounder,Batting All-Rounder,141,8.72,2047,51,100
+50,Litton Rahim,Wicket-Keeper,Aggressive,175,8.41,502,35,40
+51,Babar Starc,All-Rounder,Balanced,115,9.47,3303,5,40
+52,Devon Kohli,All-Rounder,Balanced,120,9.62,1512,67,30
+53,Mitchell du Plessis,All-Rounder,Bowling All-Rounder,101,8.66,1887,10,20
+54,Faf Boult,Bowler,Medium Pace,158,6.67,1716,53,50
+55,Surya de Kock,All-Rounder,Balanced,100,8.79,2292,36,100
+56,Angelo Boult,Wicket-Keeper,Anchoring,139,9.61,4583,109,30
+57,Trent Southee,Bowler,Medium Pace,168,7.83,3728,93,100
+58,Josh Khan,Bowler,Medium Pace,115,9.79,2180,49,50
+59,Aaron Nabi,Wicket-Keeper,Aggressive,97,7.18,2870,109,20
+60,Trent Maxwell,Bowler,Spin,121,8.44,4253,131,30
+61,Faf Pooran,Bowler,Medium Pace,98,7.0,1437,144,40
+62,Babar Williamson,All-Rounder,Bowling All-Rounder,155,8.51,802,138,30
+63,Hardik Southee,Batter,Top Order,152,6.69,4884,83,20
+64,Babar Boult,Batter,Finisher,123,10.12,1327,148,50
+65,Aiden Iqbal,Bowler,Medium Pace,121,9.05,3587,2,75
+66,Tom Stokes,All-Rounder,Bowling All-Rounder,154,9.95,2768,88,75
+67,Ravindra Head,Wicket-Keeper,Anchoring,152,6.84,2740,131,30
+68,Shubman Mathews,Wicket-Keeper,Finisher,91,9.36,1781,30,30
+69,Josh Williamson,Bowler,Pace,133,6.46,862,5,40
+70,Dinesh du Plessis,All-Rounder,Balanced,140,7.25,4937,4,20
+71,Kusal Boult,Wicket-Keeper,Finisher,158,9.04,1425,85,50
+72,Devon Finch,Batter,Finisher,172,7.34,1545,15,40
+73,Ben Cummins,All-Rounder,Bowling All-Rounder,161,10.2,4449,56,75
+74,Ruturaj Kohli,Wicket-Keeper,Aggressive,141,10.34,1923,138,40
+75,Mushfiqur de Kock,Bowler,Medium Pace,162,8.36,4848,76,30
+76,Litton Cummins,Batter,Top Order,131,8.31,4043,137,50
+77,Eoin Finch,Batter,Top Order,95,5.59,658,46,30
+78,Mitchell Bumrah,Bowler,Pace,152,8.71,4221,101,75
+79,Angelo Khan,All-Rounder,Balanced,128,8.6,2930,109,50
+80,Litton Perera,Batter,Top Order,178,7.51,767,59,50
+81,Jasprit Smith,Wicket-Keeper,Finisher,137,6.6,2090,88,20
+82,Shubman Pandya,Wicket-Keeper,Aggressive,106,5.95,4029,56,30
+83,Devon Rahim,Batter,Top Order,134,7.78,2681,134,75
+84,Usman Iqbal,Batter,Finisher,106,7.72,2796,147,50
+85,Wanindu Nabi,Bowler,Spin,136,9.03,2100,104,40
+86,Shubman Finch,Batter,Finisher,90,8.17,1643,46,100
+87,Tim Morgan,Bowler,Pace,118,8.75,3755,149,50
+88,Pat Pooran,Batter,Finisher,121,8.8,3304,15,40
+89,Nicholas Southee,Batter,Middle Order,144,7.44,3160,20,30
+90,KL Cummins,Bowler,Pace,148,7.41,4267,102,30
+91,Ruturaj Jadeja,Wicket-Keeper,Finisher,151,8.92,4754,19,20
+92,Aaron Mathews,Batter,Middle Order,94,8.36,3823,108,20
+93,Virat Morgan,All-Rounder,Balanced,164,5.83,3411,30,75
+94,Tom Nabi,Wicket-Keeper,Finisher,158,7.38,2778,34,75
+95,Virat Azam,Bowler,Pace,131,5.69,2284,27,20
+96,Shaheen Hazlewood,All-Rounder,Batting All-Rounder,178,6.29,3997,77,20
+97,Tim Latham,Bowler,Spin,115,7.56,1325,87,30
+98,Pathum Bumrah,Bowler,Medium Pace,99,9.52,518,123,20
+99,Dinesh Finch,All-Rounder,Balanced,163,7.61,1589,4,20
+100,Shubman Cummins,All-Rounder,Bowling All-Rounder,136,9.34,3995,11,75
